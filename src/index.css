@@ -1,0 +1,42 @@
+.sideList{
+  margin-top: 2rem;
+}
+
+.card{
+  margin-top: 2rem;
+}
+
+.upload{
+  margin: 1rem;
+  
+}
+.upload img{
+  border-width: 2px;
+  border-style: double;
+  border-color: bisque;
+
+}
+
+img{
+  height: 150px;
+  width:150px;
+  border-radius: 80px ;
+  margin-bottom: 1rem;
+
+}
+
+
+.list-group-item{
+  background-color: silver;
+  
+}
+
+.icons>button>i {
+color: red;
+}
+
+
+.icons>button>span {
+  color: blue;
+  }
+
